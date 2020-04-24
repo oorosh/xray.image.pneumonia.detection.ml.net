@@ -6,4 +6,4 @@ Transfer learning was usend on ResnetV2101 model. I have tried few more pretrain
 
 Training was done with GPU.
 
-Model generated can classify chest xray images with pneumonia and with out pneumonia.
+Model generated can classify chest xray images with pneumonia and without pneumonia.
