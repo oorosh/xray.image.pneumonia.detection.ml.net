@@ -1,4 +1,4 @@
-Chest xray image classification with transfer learning wiht GPU in ml.net
+Chest xray image classification using transfer learning with GPU in ml.net
 
 Dataset that i use I have found here https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/
 
