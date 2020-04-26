@@ -13,3 +13,7 @@ To setup CUDA on you sistem flow instruction from link below
 https://github.com/dotnet/machinelearning/blob/master/docs/api-reference/tensorflow-usage.md
 
 Model generated can classify chest xray images with pneumonia and without pneumonia.
+
+This solution is heavily inspired by
+
+https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/getting-started/DeepLearning_ImageClassification_Training
