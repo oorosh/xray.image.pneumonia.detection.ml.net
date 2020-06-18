@@ -8,7 +8,7 @@ Training was done with GPU.
 
 If you dont have CUDA compatible graphics card or you dont have CUDA installed on you system, uninstall SciSharp.TensorFlow.Redist-Windows-GPU nuget package and install SciSharp.TensorFlow.Redist. This will use CPU for training, but it will be much slower.
 
-To setup CUDA on you system flow instruction from link below
+To setup CUDA on you system follow the instructions from link below
 
 https://github.com/dotnet/machinelearning/blob/master/docs/api-reference/tensorflow-usage.md
 
